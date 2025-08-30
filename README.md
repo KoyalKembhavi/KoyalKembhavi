@@ -2,7 +2,7 @@
 Welcome to my GitHub! I'm a passionate developer, learner, and creator.
 
 ### 👨‍💻 About Me
-Currently exploring Cybersequrity and Frondend Dev.
+Currently exploring Cybersecurity and Frondend Dev.
 
 ### 🛠️ Skills & Tools
 Languages: Python, C++, HTML
