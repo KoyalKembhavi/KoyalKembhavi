@@ -2,12 +2,16 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=150&text=KOYAL%20KEMBHAVI&fontSize=42&fontColor=00FF9C&fontAlign=50&fontAlignY=45&desc=%3E%20securing%20systems.%20building%20chains.%20crafting%20interfaces.&descAlign=50&descAlignY=68&descColor=8FE3C7&animation=fadeIn&fontFamily=monospace)
 
+</div>
+
 ```
 $ whoami
 > IT undergrad @ PICT, Pune | Frontend Engineer | Hackathon Winner x2
 > Passionate about Cybersecurity, Blockchain & Frontend Development
 > Currently defending banks from mule accounts, one commit at a time 🛡️
 ```
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/koyal-kembhavi-8872a0330"><img src="https://img.shields.io/badge/-LinkedIn-00FF9C?style=flat-square&logo=linkedin&logoColor=0F2027" /></a>
 <a href="mailto:koyalkem13@gmail.com"><img src="https://img.shields.io/badge/-Email-00FF9C?style=flat-square&logo=gmail&logoColor=0F2027" /></a>
